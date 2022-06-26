@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Lucas Albuquerque 👋
 
 <!--
 **LucasAlbuquerque2/lucasalbuquerque2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

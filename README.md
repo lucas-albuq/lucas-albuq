@@ -1,4 +1,8 @@
-### Hello, I'm Lucas Albuquerque 👋
+<h1 align = center>Hello, I'm Lucas Albuquerque 👋
+<br/>
+A dev in progress.</h1>
+
+<img src="https://avatars.githubusercontent.com/u/108223448?v=4" width = 300px/>
 
 <!--
 **LucasAlbuquerque2/lucasalbuquerque2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

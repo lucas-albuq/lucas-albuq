@@ -27,4 +27,4 @@ A dev in progress.</h1>
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" height = 40px/>
 <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" height = 40px/>
 <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height = 40px/>
-  </div
+  </div>

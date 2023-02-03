@@ -4,7 +4,7 @@
 A dev in progress.</h1>
 
 <div align = center>
-<img src="https://avatars.githubusercontent.com/u/108223448?s=400&u=79f77021e8902d9c7e0e4846b428d429088a3101&v=4" height = 400px/>
+<img src="https://avatars.githubusercontent.com/u/108223448?s=400&u=79f77021e8902d9c7e0e4846b428d429088a3101&v=4" height = 400px style = "border-radius:5px"/>
  </div>
 
 <h2>About Me:</h2>

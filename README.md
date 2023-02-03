@@ -10,7 +10,7 @@ A dev in progress.</h1>
 <h2>About Me:</h2>
 <div id= "aboutmeitems">
 <p>- 🌱 I’m currently learning: <b>python</b></p>
-<p>- 🔥 I'm preparing for the 2nd phase of the OBI (Brazilian Informatics Olympiad).</p>
+<p>- 🔥 I'm preparing for the 'secret'.</p>
 <p>- ⚡ Fun fact: I draw</p>
  </div>
 

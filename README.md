@@ -19,7 +19,7 @@
 
 <h2 align = center>Mídias Sociais:</h2>
 <div id = "SOCIALMEDIAICONS" align = "Center" style = "color: white;">
-<a href = "https://www.linkedin.com/in/lucas-francisco-de-albuquerque-barbosa-b986501a7/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/045/thumb/in.png?1656252179" width = 40px/></a>
+<a href = "https://www.linkedin.com/in/lucas-albuq/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/045/thumb/in.png?1656252179" width = 40px/></a>
 <a href = "https://www.instagram.com/lucaslfab/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/051/thumb/insta.png?1656253712" height = 40px/></a>
 <a href = "https://www.github.com/lucas-albuq/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/059/thumb/git_chan.png?1656254767" height = 40px/></a>
 </div>
